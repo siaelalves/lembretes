@@ -1,0 +1,35 @@
+C:\Users\user\AppData\Local\Temporary Projects\LMB\bin\Debug\LMB.exe
+C:\Users\user\AppData\Local\Temporary Projects\LMB\bin\Debug\LMB.pdb
+C:\Users\user\AppData\Local\Temporary Projects\LMB\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\AppData\Local\Temporary Projects\LMB\obj\x86\Debug\LMB.LMB.resources
+C:\Users\user\AppData\Local\Temporary Projects\LMB\obj\x86\Debug\LMB.Properties.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\LMB\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\AppData\Local\Temporary Projects\LMB\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\AppData\Local\Temporary Projects\LMB\obj\x86\Debug\LMB.exe
+C:\Users\user\AppData\Local\Temporary Projects\LMB\obj\x86\Debug\LMB.pdb
+D:\Projetos\C#\Ativos\LMB\obj\x86\Debug\LMB.exe
+D:\Projetos\C#\Ativos\LMB\obj\x86\Debug\LMB.pdb
+D:\Projetos\C#\Ativos\LMB\bin\Debug\LMB.exe
+D:\Projetos\C#\Ativos\LMB\bin\Debug\LMB.pdb
+D:\Projetos\C#\Ativos\LMB\bin\Debug\rdcfn.dll
+D:\Projetos\C#\Ativos\LMB\bin\Debug\sec.dll
+D:\Projetos\C#\Ativos\LMB\bin\Debug\rdcfn.pdb
+D:\Projetos\C#\Ativos\LMB\bin\Debug\sec.pdb
+D:\Projetos\C#\Ativos\LMB\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projetos\C#\Ativos\LMB\obj\x86\Debug\LMB.LMB.resources
+D:\Projetos\C#\Ativos\LMB\obj\x86\Debug\LMB.Properties.Resources.resources
+D:\Projetos\C#\Ativos\LMB\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projetos\C#\Ativos\LMB\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projetos\C#\Concluídos\LMB\obj\x86\Debug\LMB.LMB.resources
+D:\Projetos\C#\Concluídos\LMB\obj\x86\Debug\LMB.NLMB.resources
+D:\Projetos\C#\Concluídos\LMB\obj\x86\Debug\LMB.Properties.Resources.resources
+D:\Projetos\C#\Concluídos\LMB\obj\x86\Debug\LMB.exe
+D:\Projetos\C#\Concluídos\LMB\obj\x86\Debug\LMB.pdb
+D:\Projetos\C#\Concluídos\LMB\bin\Debug\LMB.exe
+D:\Projetos\C#\Concluídos\LMB\bin\Debug\LMB.pdb
+D:\Projetos\C#\Concluídos\LMB\bin\Debug\rdcfn.dll
+D:\Projetos\C#\Concluídos\LMB\bin\Debug\sec.dll
+D:\Projetos\C#\Concluídos\LMB\bin\Debug\rdcfn.pdb
+D:\Projetos\C#\Concluídos\LMB\bin\Debug\sec.pdb
+D:\Projetos\C#\Concluídos\LMB\obj\x86\Debug\LMB.csprojResolveAssemblyReference.cache
+D:\Projetos\C#\Concluídos\LMB\obj\x86\Debug\LMB.csproj.GenerateResource.Cache
